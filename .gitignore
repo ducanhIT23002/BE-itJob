@@ -1,0 +1,23 @@
+
+
+# Thư viện cài từ npm
+/node_modules
+
+# Biến môi trường nhạy cảm
+.env
+
+# File log hoặc output từ app (nếu có)
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# VSCode config riêng máy
+.vscode/
+
+# Hệ điều hành
+.DS_Store
+Thumbs.db
+
+# Vercel config cache
+.vercel/
